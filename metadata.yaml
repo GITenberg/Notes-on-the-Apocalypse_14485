@@ -1,0 +1,26 @@
+_repo: Notes-on-the-Apocalypse_14485
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steele, David
+    birthdate: 1803
+    deathdate: 1887
+    gutenberg_agent_id: '5546'
+    url: http://www.gutenberg.org/2009/agents/5546
+description: ''
+gutenberg_issued: '2004-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Revelation -- Commentaries'
+title: Notes on the Apocalypse
+url: http://www.gutenberg.org/ebooks/14485
